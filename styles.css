@@ -1,0 +1,138 @@
+h1 {
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+p {
+    margin: 0.8em 0;
+    line-height: 1.75;
+    font-weight: 400;
+}
+#firstblock {
+    background-color: #00b39b;
+    border-radius: 25px;
+    margin-right: 25px;
+    width: 300px;
+    padding: 15px;
+    
+}
+#secondblock {
+    background-color: #3d83df;
+    border-radius: 25px;
+    margin-right: 25px;
+    width: 300px;
+    padding: 15px;
+}
+
+#thirdblock {
+    background-color: #1b2734;
+    border-radius: 25px;
+    margin-right: 25px;
+    width: 300px;
+    padding: 15px;
+}
+#icon {
+    margin-right: 30em;
+    color: white;
+
+}
+#titleone {
+    color: white;
+    font-size: 1.625em;
+    margin: 0.3em 0;
+
+}
+#paragraphone {
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+
+}
+
+#selectfirstblock {
+    width: 100%;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    padding: 0 2em 0 0;
+    -webkit-appearance: none;
+    outline: 0;
+    text-transform: none;
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+#firstselect {
+    
+    color: white;
+
+}
+
+#iconeone {
+    margin-right: 30em;
+    color: white;
+}  
+
+#titletwo {
+    color: white;
+    font-size: 1.625em;
+    margin: 0.3em 0;
+
+}
+
+#paragraphtwo {
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+
+}
+
+#iconetwo {
+    margin-right: 30em;
+    color: white;
+}  
+
+#titlethree {
+    color: white;
+    font-size: 1.625em;
+    margin: 0.3em 0;
+}  
+
+#paragraphthree {
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+
+}
+#selectsecondblock {
+    width: 100%;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    padding: 0 2em 0 0;
+    -webkit-appearance: none;
+    outline: 0;
+    text-transform: none;
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+
+#selectthirdblock {
+    width: 100%;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    padding: 0 2em 0 0;
+    -webkit-appearance: none;
+    outline: 0;
+    text-transform: none;
+    text-decoration: underline;
+    cursor: pointer;
+
+}
